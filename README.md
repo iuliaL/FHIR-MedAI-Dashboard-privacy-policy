@@ -25,4 +25,4 @@ The policy is published via GitHub Pages and is accessible at the following URL:
 ## Contact
 
 If you have any questions or need to reach us regarding privacy concerns, please email:  
-**boating.rangers8i@icloud.com**
+**privacy@labsexplained.com**
