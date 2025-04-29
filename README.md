@@ -24,5 +24,5 @@ The policy is published via GitHub Pages and is accessible at the following URL:
 
 ## Contact
 
-If you have any questions or need to reach us regarding privacy concerns, please email:  
-**privacy@labsexplained.com**
+If you have any questions or need to reach us regarding privacy concerns, please email:  [**privacy@labsexplained.com**](mailto:privacy@labsexplained.com)
+
